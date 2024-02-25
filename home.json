@@ -17,6 +17,15 @@
         "json": "./assets/albumFiles/SPIDERACROSS.json",
         "bg": "./assets/cover/starboy.png"
     },
+    "BannerASTROWORLD": {
+        "COVER": "./assets/banner/ASTROWORLD.jpg",
+        "TITLE": "ASTROWORLD",
+        "BY": "Travis Scott",
+        "to": "albumPG",
+        "mode": "dark",
+        "json": "./assets/albumFiles/astroworld.json",
+        "bg": "./assets/cover/astroworld.png"
+    },
     "BannerFRIDAY": {
         "COVER": "./assets/banner/FRIDAYBAN.png",
         "TITLE": "Friday",
